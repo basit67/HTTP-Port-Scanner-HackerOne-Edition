@@ -54,7 +54,7 @@ Open HTTP ports: [80, 443]
 
 ```
 http-port-scanner/
-├── scanner.py           # Main scanner script
+├── main.py              # Main scanner script
 ├── requirements.txt     # Python dependencies
 └── README.md            # You're reading it
 ```
